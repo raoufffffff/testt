@@ -1,0 +1,30 @@
+{ 
+ "user": {
+    "userId": "65b6f11517cec109a1124be7",
+    "userName": "raouf",
+    "userTel": "0776966468",
+    "userCoords": {
+        "latitude": 36.673058,
+        "longitude":3.091916
+        }
+ },
+ "receives": {
+        "receivesName":"king hous",
+        "receivesId":  "65b577e60dee40cd3242da68",
+        "receivesTel": "077777",
+        "receivesCoords": {
+            "latitude": 36.667083,
+            "longitude": 3.097112
+        }
+    },
+    "price": 1500,
+     "Contents": [
+        {
+            "foodId": "65b58373c0c64449d6e8e9b1",
+            "q": 2,
+            "Price": 123
+        }
+     ],
+     "body": "dobli hrissa"
+
+}
